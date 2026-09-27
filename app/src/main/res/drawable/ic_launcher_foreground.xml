@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 3x3 stone tiles -->
+    <path android:fillColor="#FF24211D" android:pathData="M31,31h14v14h-14z M47,31h14v14h-14z M63,31h14v14h-14z M31,47h14v14h-14z M47,47h14v14h-14z M63,47h14v14h-14z M31,63h14v14h-14z M47,63h14v14h-14z M63,63h14v14h-14z" />
+    <!-- Crimson tokens with diamonds -->
+    <path android:fillColor="#FFA84A3A" android:pathData="M54,32.5a6.5,6.5 0,1 1,-0.01 0z M38,48.5a6.5,6.5 0,1 1,-0.01 0z M70,48.5a6.5,6.5 0,1 1,-0.01 0z M54,64.5a6.5,6.5 0,1 1,-0.01 0z" />
+    <path android:fillColor="#FFF1D6C6" android:pathData="M54,35.8l3.2,3.2l-3.2,3.2l-3.2,-3.2z M38,51.8l3.2,3.2l-3.2,3.2l-3.2,-3.2z M70,51.8l3.2,3.2l-3.2,3.2l-3.2,-3.2z M54,67.8l3.2,3.2l-3.2,3.2l-3.2,-3.2z" />
+    <!-- Surrounded teal token with circle -->
+    <path android:fillColor="#FF1F5F73" android:pathData="M54,48.5a6.5,6.5 0,1 1,-0.01 0z" />
+    <path android:strokeColor="#FFCFE7EA" android:strokeWidth="1.6" android:pathData="M54,52.3a2.7,2.7 0,1 1,-0.01 0z" />
+    <!-- Bronze frame -->
+    <path android:strokeColor="#FFB08D57" android:strokeWidth="1.2" android:pathData="M29,29h50v50h-50z" />
+</vector>
